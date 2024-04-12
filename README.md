@@ -1,1 +1,2 @@
-# RIWI_RESTAURANT
+# RIWI-RESTAURANT2
+Practica para Git Flow
